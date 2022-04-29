@@ -2,8 +2,7 @@
 
 Code associated with:
 
-Andreu Castillo Escrivà, Juan Rueda & Francesc Mesquita-Joanes. Under review. Effects of the temporal scale of observation on the analysis of aquatic invertebrate
-metacommunities.
+Andreu Castillo-Escrivà, Francesc Mesquita-Joanes, & Juan Rueda (2020). Effects of the temporal scale of observation on the analysis of aquatic invertebrate metacommunities. Frontiers in Ecology and Evolution, 298.
 
 Scripts of the analyses:
 
